@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AbdullahAbdeen_HW2</string>
+    <string name="favorites">Favs</string>
+    <string name="search_hint">Book Title</string>
+    <string name="search">Search</string>
+    <string name="title_activity_favorites">Favorite books</string>
+</resources>
